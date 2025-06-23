@@ -6,6 +6,7 @@
 >[Siiibo証券株式会社](https://siiibo.com/) / Tech (Part-Time)<br>
 
 ### Achievements 🚩
+>基本情報技術者試験 Passed<br>
 >[ICPC 2023 Asia Yokohama Regional](https://icpc.iisf.or.jp/2023-yokohama/) 16th /301 teams<br>
 ><a href="https://atcoder.jp/users/wiiiiam" target="_blank" title="wiiiiam">
   <img src="https://img.shields.io/endpoint?url=https://atcoder-badges.now.sh/api/atcoder/json/wiiiiam" /><br>
@@ -14,8 +15,8 @@
 
 ## Skills 🙌
 ### Languages 📜
->main: C++，JavaScript<br>
->sub: Python，Elixir，Haskell，HTML，CSS<br>
+>main: C++，Elm，Elixir<br>
+>sub: JavaScript，Python，Haskell，HTML，CSS<br>
 
 ### Others 👀
 >Git，Docker，WSL<br>
