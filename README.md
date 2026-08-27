@@ -3,7 +3,7 @@
 ### Education / Career 🏢
 > 市川学園 市川高等学校 '20.04 - '23.03 <br>
 > 千葉大学 工学部 総合工学科 情報工学コース '23.04 - <br>
-> [Siiibo証券株式会社](https://siiibo.com/) / Tech (Part-Time) '25.03 - <br>
+> [株式会社メタプラネット証券（旧商号：Siiibo証券株式会社）](https://siiibo.com/) / Tech (Part-Time) '25.03 - <br>
 
 ### Achievements 🚩
 > [ICPC 2023 国内予選](https://storage.googleapis.com/files.icpc.jp/domestic2023/contest/all_ja.html) [6th](https://icpc.jp/2023/domestic/results/) / 301 teams <br>
