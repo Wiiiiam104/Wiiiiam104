@@ -7,8 +7,8 @@
 > Freelance (System Development) / 委託元: [株式会社メタプラネット証券](https://metaplanet-sec.jp/about) '26.11-
 
 ### Achievements 🚩
-> [ICPC 2023 国内予選](https://storage.googleapis.com/files.icpc.jp/domestic2023/contest/all_ja.html) [6th](https://icpc.jp/2023/domestic/results/) / 301 teams <br>
-> ICPC 2023 Asia Yokohama Regional [16th](https://github.com/user-attachments/assets/e86f2020-6ee7-4779-acf8-79a073e9db20) / 58 teams <br>
+> [ICPC](https://icpc.jp/about/) 2023 国内予選 [6th](https://icpc.jp/2023/domestic/results/) / 301 teams <br>
+> [ICPC](https://icpc.jp/about/) 2023 Asia Yokohama Regional [16th](https://github.com/user-attachments/assets/e86f2020-6ee7-4779-acf8-79a073e9db20) / 58 teams <br>
 > <img src="https://img.shields.io/badge/応用情報-2025.10-red" alt="ipa:ap"/></a>
 > <a href="https://atcoder.jp/users/wiiiiam" target="_blank" title="wiiiiam">
 >   <img src="https://img.shields.io/endpoint?url=https://atcoder-badges.now.sh/api/atcoder/json/wiiiiam" /></a><br>
